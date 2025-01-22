@@ -1,5 +1,4 @@
-# Project Name
-
+# Meta LLama Model Inference on Inferentia2 using EKS
 This is a sample project that uses Elastic Kubernetes Service (EKS) and Deep Java Library (open-source) to host transformer models from huggingface.co
 on Inferentia2 (Amazon Accelerated Compute Instance)
 
