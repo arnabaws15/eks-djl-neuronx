@@ -1,0 +1,6 @@
+export AWS_REGION=us-west-2
+export CLUSTER_NAME=llama2
+export EKS_VERSION=1.29
+export INSTANCE_TYPE=inf2.xlarge
+export DESIRED_NODES=1
+export ACCELERATED_AMI=ami-09a2da17547239748

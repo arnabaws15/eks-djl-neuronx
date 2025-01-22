@@ -1,0 +1,15 @@
+---
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: llama2
+  region: us-west-2
+  version: "1.30"
+
+addons:
+- name: vpc-cni
+  version: latest
+
+iam:
+  withOIDC: true
