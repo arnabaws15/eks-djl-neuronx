@@ -24,7 +24,7 @@ Provide step-by-step installation instructions:
 
 ```bash
 # Installation commands
-git clone [<repository-url>](https://github.com/arnabaws15/eks-djl-neuronx.git)
+git clone https://github.com/arnabaws15/eks-djl-neuronx.git
 cd eks-djl-neuronx
 source env_vars # update env_vars file if you want to change defaults
 
